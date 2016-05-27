@@ -4,3 +4,11 @@ body {
   text-align: center;
   width: 100%;
 }
+h2 {
+  background-image: url("img src='https://drscdn.500px.org/photo/74837217/m%3D900/17638f6f9c799d31b4830847aecd1cd2");
+  background-size: cover;
+  color: white;
+}
+#footer {
+  font-size: 0.75rem;
+}
