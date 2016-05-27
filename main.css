@@ -4,11 +4,13 @@ body {
   text-align: center;
   width: 100%;
 }
-h2 {
+
+h1 {
   background-image: url("http://imgur.com/5ssSles");
   background-size: cover;
   color: white;
 }
+
 #footer {
   font-size: 0.75rem;
 }
