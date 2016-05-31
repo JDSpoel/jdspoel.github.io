@@ -11,6 +11,16 @@ h1 {
   color: white;
 }
 
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('http://imgur.com/5ssSles');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
 nav li {
   display: inline;
 }
