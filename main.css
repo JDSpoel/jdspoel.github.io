@@ -14,6 +14,9 @@ h1 {
 nav li {
   display: inline;
 }
+.contact-btn {
+  float: right;
+}
 
 #footer {
   font-size: 0.75rem;
